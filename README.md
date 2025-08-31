@@ -1,9 +1,10 @@
 # Streamline Labs Website
 
-!(static/image1.png)
-!(static/image2.png)
-!(static/image3.png)
-!(static/image4.png)
+![Homepage](static/image1.png)
+![Contact Form](static/image2.png)
+![Dashboard](static/image3.png)
+![Mobile View](static/image4.png)
+
 
 A modern, responsive website for Streamline Labs - a digital solutions company helping small businesses in Nairobi work smarter through technology.
 
