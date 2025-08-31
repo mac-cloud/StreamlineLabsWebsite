@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Virtual environment
+venv/
+env/
+ENV/
+.streamline/
+*.egg-info/
+
+# Environment & secrets
+.env
+*.env.*
+secrets.json
+
+# Database
+*.db
+*.sqlite3
+*.sqlite
+migrations/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Flask specific
+instance/
+*.pid
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
