@@ -14,7 +14,7 @@ app = Flask(__name__)
 
 #configuration
 app.config['SECRET_KEY'] = os.getenv('SECRET_KEY')
-app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URL', 'mysql://root:1234567890@localhost/streamline_labs')
+app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URL', 'mysql+pymysql://root:1234567890@localhost/streamline_labs')
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 
