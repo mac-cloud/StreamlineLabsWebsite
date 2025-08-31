@@ -1,9 +1,9 @@
 # Streamline Labs Website
 
-![(/home/mac-aphid/Desktop/PROJECTS/MySite/static/image1.png)]
-![(/home/mac-aphid/Desktop/PROJECTS/MySite/static/image2.png)]
-![(/home/mac-aphid/Desktop/PROJECTS/MySite/static/image3.png)]
-![(/home/mac-aphid/Desktop/PROJECTS/MySite/static/image4.png)]
+!(static/image1.png)
+!(static/image2.png)
+!(static/image3.png)
+!(static/image4.png)
 
 A modern, responsive website for Streamline Labs - a digital solutions company helping small businesses in Nairobi work smarter through technology.
 
