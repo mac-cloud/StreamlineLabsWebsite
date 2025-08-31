@@ -5,3 +5,4 @@ Flask-Mail==0.9.1
 mysql-connector-python==8.1.0
 python-dotenv==1.0.0
 PyMySQL==1.1.0
+gunicorn
